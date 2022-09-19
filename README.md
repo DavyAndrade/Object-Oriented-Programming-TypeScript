@@ -1,1 +1,1 @@
-# Object-Oriented-Programming-javaScript
+# Object-Oriented-Programming-TypeScript
